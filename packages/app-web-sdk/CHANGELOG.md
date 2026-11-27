@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.4.2](https://github.com/rome-os/rome/compare/app-web-sdk-v0.4.1...app-web-sdk-v0.4.2) (2026-11-27)
+
+
+### Features
+
+* **app-web-sdk:** build an app with no web bundle, and remove the Inbox page ([#2688](https://github.com/rome-os/rome/issues/2688)) ([cf89b1f](https://github.com/rome-os/rome/commit/cf89b1f725d6798efcb53b1cd35a4a3b7ed3c14b))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * peerDependencies
+    * @rome-os/ui bumped from ^0.3.0 to ^0.3.14
+
 ## [0.4.1](https://github.com/rome-os/rome/compare/app-web-sdk-v0.4.0...app-web-sdk-v0.4.1) (2026-11-15)
 
 
